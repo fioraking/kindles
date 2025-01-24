@@ -1,4 +1,3 @@
-# kindleszzw.github.io
-个人网页
+# Kindles
+<p><a href="./2024">2024</a></p>
 
-(2024)[./2024]
